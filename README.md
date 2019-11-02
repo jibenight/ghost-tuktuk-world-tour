@@ -1,4 +1,4 @@
-# ghost-tuktuk-world-tour
+# Ghost-tuktuk-world-tour
 
 Blog by Jean named Tuk Tuk wordl tour 
 
